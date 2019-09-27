@@ -2,7 +2,7 @@
 //  WorldTrotterUITests.swift
 //  WorldTrotterUITests
 //
-//  Created by Rohat Karakuyu on 2019-09-27.
+//  Created by Firat Karakuyu on 2019-09-27.
 //  Copyright © 2019 FIRAT KARAKUYU. All rights reserved.
 //
 
